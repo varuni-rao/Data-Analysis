@@ -5,4 +5,4 @@ This project is about a food aggregator company, that has data stored for many r
 The objective of the project is to find answers to some specific questions that will help them improve their business. 
 The final part of the project is to come up with recommendations based on the analysis and understanding of patterns in data, some recommendations to improve the customer base as well as customer experience.
 
-The files included here are the project notebook and the dataset in csv format provided to us.
+The files included here are the project notebook (.ipynb) and the dataset in .csv format provided to us.
