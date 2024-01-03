@@ -4,3 +4,6 @@ The purpose is to analyse the given data and draw insights from them.
 These insights must be with an aim of benefiting the business
 Hence, the insights are also accompanied with recommendations for actions to be taken by business
 to benefit from the insights.
+
+Following are the projects done with this perspective:
+1. Foodhub - Food aggregator business
