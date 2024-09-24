@@ -7,4 +7,4 @@ This project is about a food aggregator company, that has data stored for many r
 #### Files:
 - ABOUT.md : This file gives an overview of this project and files included in this repository folder 
 - Varuni_Foodhub_FullCode.ipynb: The notebook with python code and comments describing statistical observations as well as visual observations and finally providing business recommendations based on the observations and conclusions drawn from the data
-foodhub_order.csv: Data file provided in .csv format.
+- foodhub_order.csv: Data file provided in .csv format.
