@@ -6,4 +6,6 @@ A fictional company's Sales Data, Customer Data, Products Data and Regions data 
 
 #### Project Files:
 - ABOUT.md: Gives a project overview
-- 
+- Management Insights - Data Model.xlsx : excel file containing all provided data
+- ManagementInsights.pbix: PowerBI file of the dynamic dashboard
+- ManagementInsights1.pdf: PowerBI dashboard display print 
